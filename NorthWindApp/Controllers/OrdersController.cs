@@ -20,7 +20,7 @@ namespace NorthWindApp.Controllers
 
     public class FlatVM
     {
-        // orh
+        // orh - order header
         public int orderid { get; set; }
         public string shipcity { get; set; }
         public string companynamea { get; set; }
