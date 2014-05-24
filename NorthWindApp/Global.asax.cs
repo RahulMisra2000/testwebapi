@@ -7,6 +7,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
+// added at github.com
 namespace NorthWindApp
 {
     public class MvcApplication : System.Web.HttpApplication
